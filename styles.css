@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+	.hero{
+		display:inline;
+		justify-content:start;
+		align-items:center;
+	}
+.hero>div>button{
+	padding:10px;
+	background-color:red;
+	color:white;
+	border-radius:5px;
+	border:none;
+	
+}
+.hero>div{
+	display:inline-block;
+      width:200px;
+	padding:30px;
+	
+	
+}
+.hero>div>{
+     
+}
